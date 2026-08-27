@@ -22,12 +22,25 @@ body {
     font-style: italic;
 }
 
+.sinPuntos li {
+    list-style-type: none;
+}
 
+span {
+    font-weight: bold;
+}
 
 footer {
     text-align: center;
     background-color: #005677;
     color: #FFFFFF;
+}
+
+footer span {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 85%;
 }
 
 /*   */
