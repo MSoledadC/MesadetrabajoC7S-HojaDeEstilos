@@ -4,6 +4,17 @@ header {
 
 h1 {
     text-align: center;
+    font-weight: 700;
+    color: #005677;
+    background-color: #C4C4C4;
+
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 20px;
+    background-color: #C4C4C4;
+    color: #005677;
 }
 
 body {
@@ -13,8 +24,10 @@ body {
 
 
 
-footer p {
+footer {
     text-align: center;
+    background-color: #005677;
+    color: #FFFFFF;
 }
 
 /*   */
